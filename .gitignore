@@ -1,0 +1,6 @@
+*.vcd
+build/
+*.bak
+*.log
+~$*
+Thumbs.db
